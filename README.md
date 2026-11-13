@@ -2,7 +2,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=190&section=header&text=%3E%20Awer.rror_&fontSize=56&fontColor=7ee787&fontAlignY=45&animation=fadeIn&fontFamily=JetBrains%20Mono" width="100%" alt="Awer.rror"/>
 
 ```console
 awer@arch ~ $ whoami
