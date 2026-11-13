@@ -4,13 +4,11 @@
 
 
 ```console
-awer@arch ~ $ whoami
-Awer.rror
+awer@arch ~ $ fastfetch
+    _            ___    ___     awer@awerrror
+   /_\  __  __  | __|  | _ \    OS  Arch Linux x86_64
+  / _\  \ \/ /  |__|  |   /     Kernel  Linux 7.2.11-arch1-1
 
-awer@arch ~ $ uname -sr
-Linux 7.2.11-arch1-1
-
-awer@arch ~ $ _
 ```
 
 <img src="https://skillicons.dev/icons?i=arch,python,fastapi,postgres,docker,git,bash&perline=7" alt="stack"/>
