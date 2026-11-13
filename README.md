@@ -3,7 +3,7 @@
 ```console
 awer@arch ~ $ fastfetch
     _            ___    ___     awer@awerrror
-   /_\  __  __  | __|  | _ \    OS       Arch Linux x86_64
+/_\  __  __  | __|  | _ \    OS       Arch Linux x86_64
   / _ \  \ \/ /  |__|  |___/    Kernel   Linux 7.2.11-arch1-1
                                 Femboy
 ```
